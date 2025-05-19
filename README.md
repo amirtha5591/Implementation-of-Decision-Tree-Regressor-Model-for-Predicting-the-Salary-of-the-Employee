@@ -70,10 +70,15 @@ dt.predict([[5,6]])
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/28a58f47-35f5-4cfb-b7b7-074fb2b48eab)
+
 ![image](https://github.com/user-attachments/assets/0a26effa-d8ff-470d-b897-44c9c92f22d4)
+
 ![image](https://github.com/user-attachments/assets/be432b7b-a8da-460b-a659-343b731ef987)
+
 ![image](https://github.com/user-attachments/assets/edb39a11-39b2-4e17-8795-c8c1449185bc)
+
 ![image](https://github.com/user-attachments/assets/c7033ed4-4573-475b-8322-4f1aa7d9269a)
+
 ![image](https://github.com/user-attachments/assets/d0a31a7f-2afc-4b3f-84b1-7e8699d44708)
 
 
